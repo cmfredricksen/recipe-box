@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Montserrat&family=Roboto+Mono:wght@300&display=swap");
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	--font-headline: "Dancing Script", garamond;
+	--font-text: "Montserrat", helvetica;
+	--font-accent: "Roboto Mono", courier;
+
+	--clr-dark: #222;
+	--clr-medium: #666;
+	--clr-light: #bbb;
+
+	--clr-grey: #779;
+	--clr-white: #ddd;
+}
+
+body {
+	font-family: var(--font-text);
+	background-color: var(--clr-grey);
+}
+
+h1,
+h2,
+h3 {
+	font-family: var(--font-headline);
+}
+
+a,
+li {
+	font-family: var(--font-accent);
+}
