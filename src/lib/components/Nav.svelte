@@ -5,12 +5,16 @@
 			path: "/"
 		},
 		{
-			title: "Recipes",
-			path: "/recipes"
+			title: "API",
+			path: "/api/recipes"
 		},
 		{
 			title: "Tips",
 			path: "/tips"
+		},
+		{
+			title: "Blog",
+			path: "/blog"
 		}
 	];
 </script>
