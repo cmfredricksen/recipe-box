@@ -10,7 +10,7 @@
 			<a href={recipe.path.replace(".md", "")}>{recipe.meta.title}</a>
 			<div class="tag-box">
 				{#each recipe.meta.tags as tag}
-					<a href={`/src/routes/blog/${tag}`}>#{tag}</a>
+					<a href="/blog/tag/{tag}">#{tag}</a>
 				{/each}
 			</div>
 		</div>

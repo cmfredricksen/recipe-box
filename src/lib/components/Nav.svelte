@@ -13,7 +13,7 @@
 			path: "/tips"
 		},
 		{
-			title: "Blog",
+			title: "Recipes",
 			path: "/blog"
 		}
 	];
