@@ -22,6 +22,6 @@ type: recipe
 3. Flip chops bake 20-30 mins
 4. Remove and let sit for 10-20 mins
 
-#### tags:
+### tags:
 
 [[recipes]] [[pork]] [[dinner]]

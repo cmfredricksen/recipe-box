@@ -53,6 +53,6 @@ Before starting, I like to measure out my seasonings and put them in a small bow
 8. Cook for 20 minutes or more, turn off heat and let sit covered for 10 minutes.
 9. Stir and **Serve** with crackers or [[garlic bread]]
 
-#### Serving Suggestions
+### Serving Suggestions
 
 You can add condiments to your chili like sour cream or shredded cheese.

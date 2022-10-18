@@ -10,7 +10,7 @@ tags:
 type: recipe
 ---
 
-Makes about 3-4 servings
+<p>Makes about 3-4 servings</p>
 
 ### Ingredients:
 

@@ -13,7 +13,7 @@ type: recipe
 
 ## Taco Seasoning
 
-#### Per 1 pound ground beef
+### Per 1 pound ground beef
 
 - 1 TBSP chili powder
 - 1/4 TSP garlic powder

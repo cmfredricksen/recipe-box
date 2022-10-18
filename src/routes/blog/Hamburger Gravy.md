@@ -14,7 +14,7 @@ type: recipe
 
 [[recipes]]
 
-#### Ingredients
+### Ingredients
 
 - 1 pound ground beef
 - 1/2 chopped onion
@@ -24,7 +24,7 @@ type: recipe
 - 1 tsp sage
 - salt & pepper
 
-#### How to make Hamburger Gravy
+### How to make Hamburger Gravy
 
 1. In a large skillet or Dutch oven on medium heat, brown ground beef.
 2. When beef is done, add onion and bouillon cubes and cook 5 more minutes.
@@ -36,7 +36,7 @@ type: recipe
 
 You can serve over potatoes, bread or pasta.
 
-#### Make it a [[one-pan-dinner]] !!
+### Make it a [[one-pan-dinner]] !!
 
 #one-dish
 

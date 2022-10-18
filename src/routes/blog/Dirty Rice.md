@@ -15,7 +15,7 @@ type: recipe
 
 [[one-pan-dinner]] #spicy #one-dish
 
-#### Ingredients
+### Ingredients
 
 - 1 pound Ground Beef
 - 1/2 cup Diced Onion
@@ -33,7 +33,7 @@ _Seasonings_
 - 1/2 tsp sea salt (can use normal salt)
 - 1/2 tsp black pepper
 
-#### How to Prepare
+### How to Prepare
 
 1. In a deep skillet brown one pound ground beef, add chicken broth cube(s) and allow them to soften in the grease
 2. Chop up onion, add to browned beef and let cook for 5 minutes

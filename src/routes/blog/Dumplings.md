@@ -12,7 +12,7 @@ type: recipe
 
 ### Classic Recipe
 
-#### Ingredients
+### Ingredients
 
 - 2/3 cup all purpose flour
 - 1 TBSP snipped parsley (optional)
@@ -21,7 +21,7 @@ type: recipe
 - 1/4 cup milk
 - 2 TBSP cooking oil
 
-#### How to Make Dumplings
+### How to Make Dumplings
 
 1. In a bowl mix:
    - flour
@@ -34,6 +34,6 @@ type: recipe
 4. Drop Mixture by a Tablespoon to form 4-6 mounds on top of bubbling stew
 5. Cover and let simmer for 10-12 minutes or until a toothpick comes out clean
 
-##### Used in:
+### Used in:
 
 [[Chicken and Dumplings]]

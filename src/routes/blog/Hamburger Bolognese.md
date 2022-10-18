@@ -14,7 +14,7 @@ tags:
 
 ### Ingredients
 
-#### Sauce
+### Sauce
 
 - 1 pound ground beef
 - 1/2 cup diced onion
@@ -31,7 +31,7 @@ tags:
 - basil
 - red pepper flakes
 
-#### Pasta
+### Pasta
 
 - Cook pasta in the sauce
   - Add 1.5 cups of dry pasta to sauce
