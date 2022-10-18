@@ -10,7 +10,7 @@
 			<a href={recipe.path.replace(".md", "")}>{recipe.meta.title}</a>
 			<div class="tag-box">
 				{#each recipe.meta.tags as tag}
-					<p>#{tag}</p>
+					<a href={`/src/routes/blog/${tag}`}>#{tag}</a>
 				{/each}
 			</div>
 		</div>
@@ -25,19 +25,21 @@
 		align-items: baseline;
 	}
 
-	a {
-		margin: 1rem 0;
-	}
-
 	.recipe-link {
-		margin: 1rem 0;
+		margin-top: 1.5rem;
 	}
 
 	.tag-box {
 		display: flex;
 	}
 
-	p {
+	.tag-box a {
+		font-size: 0.9rem;
 		margin-right: 1rem;
+		color: var(--clr-medium);
+	}
+
+	.tag-box a:hover {
+		color: var(--clr-light);
 	}
 </style>
